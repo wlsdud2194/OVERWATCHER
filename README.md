@@ -27,3 +27,10 @@
 ##### TMI
 
 - 팀으로 하여서 약간 하드코딩한 부분이 있습니다.
+
+![kakaotalk_20190126_012404241](https://user-images.githubusercontent.com/38432821/51758514-38084880-2109-11e9-8eda-e142adc57a11.jpg)
+![kakaotalk_20190126_012404681](https://user-images.githubusercontent.com/38432821/51758520-3cccfc80-2109-11e9-9074-48a1674599fe.jpg)
+![kakaotalk_20190126_012404781](https://user-images.githubusercontent.com/38432821/51758527-422a4700-2109-11e9-8d7c-3d27873804c1.jpg)
+![kakaotalk_20190126_012404589](https://user-images.githubusercontent.com/38432821/51758531-45bdce00-2109-11e9-88da-297bca7f4f1a.jpg)
+![kakaotalk_20190126_012404510](https://user-images.githubusercontent.com/38432821/51758535-47879180-2109-11e9-8176-bb2fcc456ac9.jpg)
+![kakaotalk_20190126_012404359](https://user-images.githubusercontent.com/38432821/51758545-4c4c4580-2109-11e9-85d0-d9d4975bba0d.jpg)
