@@ -39,9 +39,9 @@ Content-Type: application/json
 {
  "account": "dee",
  "password": "dddd",
- "name": "김동주",
- "phone": "010-6554-2101",
- "email": "deekim@dgsw.hs.kr"
+ "name": "홍길동",
+ "phone": "010-1234-5678",
+ "email": "humg@dgsw.hs.kr"
 }
 ```
 
